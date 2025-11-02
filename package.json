@@ -94,8 +94,8 @@
             {
                 "provider": "github",
                 "releaseType": "release",
-                "owner": "Vvyiloff",
-                "repo": "tesllan"
+                "owner": "AuroraTeam",
+                "repo": "Launcher"
             }
         ],
         "directories": {

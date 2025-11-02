@@ -1,4 +1,4 @@
-import publicKey from './public.pem';
+// import token from './public.pem';
 
 export const window = {
     width: 900,
@@ -11,9 +11,9 @@ export const window = {
 };
 
 export const api = {
-    ws: 'wss://vvyil-vpn.ru/launcher-api/ws',
-    web: 'https://vvyil-vpn.ru/launcher-api',
-    publicKey,
+    ws: 'ws://127.0.0.1:1370/ws',
+    web: 'http://127.0.0.1:1370',
+    // extraToken: token,
 };
 
 export const appPath = '.aurora-launcher';
